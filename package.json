@@ -4,7 +4,8 @@
   "description": "Домашнее задание Продвинутый JS",
   "main": "allKeysAndSymbols.js",
   "scripts": {
-    "keys": "node allKeysAndSymbols.js"
+    "keys": "node allKeysAndSymbols.js",
+    "proxy": "node proxy.js"
   },
   "repository": {
     "type": "git",

@@ -1,10 +1,9 @@
-# shri-homework-js
+# Домашнее задание "Продвинутый JS"
 
-Домашнее задание Продвинутый JS
-
-Запуск функций
+Запуск функций:
 
 ``` js
 node allKeysAndSymbols.js  // или npm run keys
+node proxy.js  // или npm run proxy
 
 ```

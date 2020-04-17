@@ -20,7 +20,7 @@ function allKeysAndSymbols(object) {
 }
 
 const simpleObject = allKeysAndSymbols({ test: "test", simple: "simple" });
-console.log("Простой объекта", simpleObject);
+console.log("Простой объект", simpleObject);
 
 const s1 = Symbol("test");
 const objectWithSymbol = allKeysAndSymbols({ [s1]: "symbol" });
