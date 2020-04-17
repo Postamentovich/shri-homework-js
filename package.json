@@ -1,0 +1,23 @@
+{
+  "name": "shri-homework-js",
+  "version": "1.0.0",
+  "description": "Домашнее задание Продвинутый JS",
+  "main": "allKeysAndSymbols.js",
+  "scripts": {
+    "keys": "node allKeysAndSymbols.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Postamentovich/shri-homework-js.git"
+  },
+  "keywords": [],
+  "author": "Postamentovich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Postamentovich/shri-homework-js/issues"
+  },
+  "homepage": "https://github.com/Postamentovich/shri-homework-js#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  }
+}
