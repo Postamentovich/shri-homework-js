@@ -6,7 +6,8 @@
   "scripts": {
     "keys": "node allKeysAndSymbols.js",
     "proxy": "node proxy.js",
-    "async": "node asyncExecutor.js"
+    "async": "node asyncExecutor.js",
+    "set": "node MySet.js"
   },
   "repository": {
     "type": "git",
