@@ -5,7 +5,8 @@
   "main": "allKeysAndSymbols.js",
   "scripts": {
     "keys": "node allKeysAndSymbols.js",
-    "proxy": "node proxy.js"
+    "proxy": "node proxy.js",
+    "async": "node asyncExecutor.js"
   },
   "repository": {
     "type": "git",

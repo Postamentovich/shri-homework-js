@@ -5,5 +5,5 @@
 ``` js
 node allKeysAndSymbols.js  // или npm run keys
 node proxy.js  // или npm run proxy
-
+node asyncExecutor.js // или npm run async
 ```
